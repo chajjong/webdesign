@@ -16,4 +16,8 @@
           <p>소스코드</p>
 ```
 
-4.  https://chajjong.github.io/webdesign/
+4. 데모사이트 이동하기 : <https://chajjong.github.io/webdesign/>
+
+5. 이미지 첨부하기 : ![이미지설명](깃허브 이미지경로)
+6. 이미지 크기 조절하기 <br>
+<img src="이미지 경로" width="100px"></br>
