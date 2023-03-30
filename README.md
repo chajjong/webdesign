@@ -12,8 +12,8 @@
 > 인용문을 표시할때는 맨앞에 >를 사용한다.
 >> 인용문 안에 인용문은 >>를 사용한다. 계속해서 추가 가능하다.
 3. 소스코드 표시하기 : 소스코드는 앞뒤에 `백틱`으로 감싸준다.
-...
+```
           <p>소스코드</p>
-...
+```
 
-https://chajjong.github.io/webdesign/
+4.  https://chajjong.github.io/webdesign/
